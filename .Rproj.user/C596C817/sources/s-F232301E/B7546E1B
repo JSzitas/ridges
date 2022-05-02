@@ -1,0 +1,26 @@
+{
+    "id": "B7546E1B",
+    "path": "~/Desktop/ridges/R/gaussian_solver.R",
+    "project_path": "R/gaussian_solver.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651520925837.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,40",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643578230,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643578230,
+    "read_only": false,
+    "read_only_alternatives": []
+}

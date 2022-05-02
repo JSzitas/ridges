@@ -1,0 +1,41 @@
+[
+    {
+        "file": "/home/jsco/Desktop/ridges/src/gaussian_ridge.cpp",
+        "file_last_write": 1643666533.0,
+        "definitions": [
+            {
+                "usr": "c:@F@gaussian_ridge#&1I#S0_#d#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "gaussian_ridge(const Eigen::VectorXf &, const Eigen::MatrixXf &, double, int, double)",
+                "file": "/home/jsco/Desktop/ridges/src/gaussian_ridge.cpp",
+                "line": 4,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "/home/jsco/Desktop/ridges/src/utils.h",
+        "file_last_write": 1643666574.0,
+        "definitions": [
+            {
+                "usr": "c:@F@median#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "median(Eigen::VectorXf)",
+                "file": "/home/jsco/Desktop/ridges/src/utils.h",
+                "line": 12,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@lambda_estimator#&1I#S0_#S0_#1I#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lambda_estimator(const Eigen::VectorXf &, const Eigen::MatrixXf &, const Eigen::MatrixXf &, const Eigen::VectorXf, int, double)",
+                "file": "/home/jsco/Desktop/ridges/src/utils.h",
+                "line": 21,
+                "column": 8
+            }
+        ]
+    }
+]

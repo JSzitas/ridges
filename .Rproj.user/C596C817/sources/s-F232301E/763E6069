@@ -1,0 +1,24 @@
+{
+    "id": "763E6069",
+    "path": "~/Desktop/ridges/R/binomial_solver.R",
+    "project_path": "R/binomial_solver.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651520779135.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643663565,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643663565,
+    "read_only": false,
+    "read_only_alternatives": []
+}
